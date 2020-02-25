@@ -1,12 +1,12 @@
 # Site Settings
-title: Start Jekyll
-email: taniarascia@gmail.com
+title: First Ward Civic Club - Houston
+email: fwcc2020@gmail.com
 description: >
-  A guide to getting started with Jekyll.
-baseurl: "/startjekyll"
-url: "http://taniarascia.github.io"
-twitter_username: taniarascia
-github_username:  taniarascia
+  First Ward Civic Club
+baseurl: "/1stward"
+url: "http://crocken.github.io"
+twitter_username: 
+github_username:  
 # Build Settings
 sass:
   sass_dir: _sass
